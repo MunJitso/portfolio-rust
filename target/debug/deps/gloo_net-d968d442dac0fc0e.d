@@ -1,0 +1,11 @@
+/workspaces/portfolio-rust/target/debug/deps/gloo_net-d968d442dac0fc0e.rmeta: /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/lib.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/error.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/http/mod.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/http/headers.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/websocket/mod.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/websocket/events.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/websocket/futures.rs
+
+/workspaces/portfolio-rust/target/debug/deps/gloo_net-d968d442dac0fc0e.d: /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/lib.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/error.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/http/mod.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/http/headers.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/websocket/mod.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/websocket/events.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/websocket/futures.rs
+
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/lib.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/error.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/http/mod.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/http/headers.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/websocket/mod.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/websocket/events.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-net-0.1.0/src/websocket/futures.rs:
