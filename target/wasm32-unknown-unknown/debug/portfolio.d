@@ -1,1 +1,0 @@
-/workspaces/portfolio-rust/target/wasm32-unknown-unknown/debug/portfolio.wasm: /workspaces/portfolio-rust/src/main.rs /workspaces/portfolio-rust/src/pages/home.rs /workspaces/portfolio-rust/src/pages/mod.rs /workspaces/portfolio-rust/src/pages/repos.rs
